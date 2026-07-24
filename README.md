@@ -1,109 +1,164 @@
 <div align="center">
 
-# Hi, I'm Krishna Mehta 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24&text=Krishna%20Mehta&fontSize=55&fontAlignY=38&desc=Systems%20Design%20Engineering%20%40%20Waterloo&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Systems+Design+Engineering+%40+Waterloo;Software+Engineering+Intern+%40+AMD;Building+AI-Powered+Products;Turning+Ideas+Into+Real+User-Facing+Tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=Software+Engineering+Intern+%40+AMD;Building+AI-powered+products;Interested+in+ML%2C+systems%2C+and+design;Turning+ideas+into+tools+people+actually+use" alt="Typing animation" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/krishna-lnkd/">
-  <img src="https://img.shields.io/badge/LinkedIn-Krishna%20Mehta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Krishna%20Mehta-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:k54mehta@uwaterloo.ca">
-  <img src="https://img.shields.io/badge/Email-k54mehta%40uwaterloo.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Let's%20Connect-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://krishna-mehta-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=KrishnaM0310&style=for-the-badge&color=6C63FF" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=KrishnaM0310&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" />
 
 </div>
 
----
+<br/>
 
-## 👩‍💻 About Me
+## ✦ About Me
 
 ```yaml
 name: Krishna Mehta
+location: Toronto, Canada
 education: Systems Design Engineering @ University of Waterloo
 current_role: Software Engineering Intern @ AMD
+
 interests:
   - Software Engineering
   - Artificial Intelligence
-  - Backend Systems
-  - Developer Tools
-  - Product Design
-currently_learning:
   - Machine Learning Systems
-  - LLM Agents
-  - Distributed Systems
-fun_fact: I enjoy turning everyday problems into products people actually use.
+  - Backend Development
+  - Product and Interface Design
+
+currently:
+  - Building GPU validation and automation tools
+  - Exploring LLM agents and intelligent systems
+  - Creating products that solve real student problems
 ```
-
-* 💻 Building automation and validation tools for data-centre GPUs at **AMD**
-* 🚀 Creator of **SyllabSync**, an AI-powered academic scheduling platform used by **200+ students**
-* 🧠 Interested in building reliable software, intelligent systems, and developer-focused products
-* 🔬 Previously worked on brain-computer interfaces, test automation, and full-stack applications
-* 📫 Reach me at **[k54mehta@uwaterloo.ca](mailto:k54mehta@uwaterloo.ca)**
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,cs,matlab,sql,html,css" />
-
-### Frameworks and Libraries
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,pytorch,flask,tailwind" />
-
-### Tools and Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,mongodb,vercel,vscode" />
+> I like building things that are technically interesting, thoughtfully designed, and genuinely useful.
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+## ✦ What I’m Working On
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📅 SyllabSync
+### 🖥️ AMD
 
-AI-powered scheduling platform that converts dense course syllabi into structured, editable academic calendars.
+Building automation and validation tools for next-generation data-centre GPUs.
 
-**Highlights**
-
-* Used by 200+ students
-* LLM-driven event extraction
-* Google Calendar integration
-* Deployed on Vercel
-
-**Tech:** Next.js, TypeScript, Groq API, Google Calendar API
+* Python and Bash automation
+* Linux-based regression systems
+* GPU telemetry validation
+* Secure firmware testing
+* AI-assisted debugging workflows
 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 EcoToken
+### 📅 SyllabSync
 
-Hackathon-winning Chrome extension that reduces unnecessary AI prompt tokens and visualizes environmental impact.
+An AI-powered platform that transforms course syllabi into editable academic calendars.
 
-**Highlights**
+* Used by 200+ students
+* LLM-powered event extraction
+* Google Calendar integration
+* Built with Next.js and TypeScript
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ✦ Tech Stack
+
+<div align="center">
+
+#### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,cs,matlab,sql&theme=dark" />
+
+<br/><br/>
+
+#### Frameworks and Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,pytorch,tailwind&theme=dark" />
+
+<br/><br/>
+
+#### Tools and Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,mongodb,vercel,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+## ✦ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">📅 SyllabSync</h3>
+
+<p align="center">
+AI-powered syllabus-to-calendar platform used by 200+ students.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-EC4899?style=flat-square" />
+</p>
+
+* Extracts exams, assignments, lectures, and deadlines
+* Generates editable academic calendar events
+* Integrates directly with Google Calendar
+* Deployed on Vercel
+
+<p align="center">
+<a href="https://github.com/KrishnaM0310/SyllabSync">
+<img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🌱 EcoToken</h3>
+
+<p align="center">
+Hackathon-winning Chrome extension for reducing unnecessary AI token usage.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/Node.js-8B5CF6?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-EC4899?style=flat-square&logo=snowflake&logoColor=white" />
+</p>
 
 * Reduced prompt token usage by up to 40%
-* Sustainability analytics dashboard
-* Built with Manifest V3
-
-**Tech:** Next.js, TypeScript, Node.js, Snowflake
+* Tracks environmental impact metrics
+* Built as a Manifest V3 Chrome extension
+* Includes a sustainability analytics dashboard
 
 </td>
 </tr>
@@ -111,79 +166,83 @@ Hackathon-winning Chrome extension that reduces unnecessary AI prompt tokens and
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 LinkMosaic
+<h3 align="center">🧠 BCI Research</h3>
 
-Autonomous document-processing system that transforms unstructured files into structured knowledge maps.
+<p align="center">
+Machine-learning pipeline for recognizing SSVEP brain signals.
+</p>
 
-**Highlights**
-
-* Agent-based extraction pipeline
-* Relationship inference
-* Serverless AWS architecture
-
-**Tech:** Python, AWS, Docker
+* Achieved 85%+ classification accuracy
+* Reduced detection time from 3 seconds to 1 second
+* Compared CNN and SVM models
+* Used FFT-based signal features
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 BCI Research
+<h3 align="center">🧩 LinkMosaic</h3>
 
-Machine-learning pipeline for classifying SSVEP brain signals and reducing neural command detection latency.
+<p align="center">
+Autonomous document-processing system built with AWS.
+</p>
 
-**Highlights**
-
-* Achieved 85%+ accuracy
-* Reduced detection window from 3 seconds to 1 second
-* Compared CNN and SVM models
-
-**Tech:** Python, C++, PyTorch, Signal Processing
+* Extracts structured information from documents
+* Generates summaries and relationship maps
+* Uses multiple AI agents
+* Built on a serverless architecture
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📊 GitHub Analytics
+## ✦ GitHub Analytics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=KrishnaM0310&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KrishnaM0310&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C084FC&icon_color=EC4899&text_color=D1D5DB" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaM0310&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaM0310&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C084FC&text_color=D1D5DB" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=KrishnaM0310&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=KrishnaM0310&theme=midnight-purple&hide_border=true&background=00000000&ring=C084FC&fire=EC4899&currStreakLabel=C084FC" />
 
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Graph
+## ✦ Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KrishnaM0310/KrishnaM0310/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaM0310&bg_color=00000000&color=C084FC&line=EC4899&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
 </div>
 
----
+<br/>
 
-## 📈 Activity Graph
+## ✦ Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaM0310&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://raw.githubusercontent.com/KrishnaM0310/KrishnaM0310/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### Thanks for visiting!
+### Let’s build something cool together ✦
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
+<a href="mailto:k54mehta@uwaterloo.ca">
+<img src="https://img.shields.io/badge/Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer" width="100%" />
 
 </div>
