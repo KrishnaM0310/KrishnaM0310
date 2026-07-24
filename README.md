@@ -56,10 +56,4 @@ pronouns: she/her
 
 <br/><br/>
 
-<i>building things that feel simple, useful, and thoughtfully designed ✦</i>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:EEE5FF,100:FCE7F3&section=footer" width="100%" />
-
 </div>
